@@ -82,7 +82,7 @@
 		"iconv-lite": "^0.6.3",
 		"luxon": "^1.21.3",
 		"module-alias": "^2.2.2",
-		"moment": "^2.29.1",
+		"moment": "^2.29.3",
 		"node-fetch": "^2.6.7",
 		"node-ical": "^0.15.1",
 		"socket.io": "^4.4.1"
