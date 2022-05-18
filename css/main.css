@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  margin: 60px;
+  margin: 20px;
   position: absolute;
   height: calc(100% - 120px);
   width: calc(100% - 120px);
@@ -195,9 +195,12 @@ sup {
 }
 
 .region.bottom.right,
-.region.bottom.center,
-.region.bottom.left {
+.region.bottom.center {
   bottom: 100%;
+}
+
+.region.bottom.left {
+  bottom: 150%;
 }
 
 .region.bar {
@@ -218,6 +221,7 @@ sup {
 
 .region.middle.center {
   top: 50%;
+  left: 45%;
 }
 
 .region.lower.third {
